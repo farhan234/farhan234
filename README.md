@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my Github profile! 
+
+I am a senior studying at the University of Texas at Austin majoring in Political Science and Management Information Systems. 
+
+Please connect with me on LinkedIn to learn more!
+
+LinkedIn: https://www.linkedin.com/in/farhan-kassam-ali/
 <!--
 **farhan234/farhan234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
